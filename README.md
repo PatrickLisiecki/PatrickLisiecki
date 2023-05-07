@@ -5,7 +5,7 @@
 
 I am a Computer Science student from NYC.
 - 🔭 I’m studying Computer Science with an interest in building web applications.
-- 🌱 Working on DSA.
+- 🌱 Working on Data Structures and Algorithms.
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Patrick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patricklisiecki/)
 - ⚡ In my free time, I enjoy weightlifting.
 
