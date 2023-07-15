@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=500&size=40&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=1012&height=56&lines=%F0%9F%91%8B+Hi%2C+I'm+Patrick+Lisiecki)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&pause=1000&color=F7F7F7&vCenter=true&width=1012&height=56&lines=Hello!+I'm+Patrick+Lisiecki;Full-Stack+Web+Developer;Computer+Science+Student;Tech+Junkie)](https://git.io/typing-svg)
 
-# 👨‍💻 About Me:
+## 👨‍💻 About Me:
 I'm Patrick, a CS student at the City University of New York-College of Staten Island and a Tech Talent Pipeline Residency Fellow.
 - 📚 I'm currently working on finishing my Bachelor of Science in Computer Science. <br>
 - 💻 I'm currently learning full-stack web development as a <a href="https://techtalentpipeline.nyc/" target="_blank">Tech Talent Pipeline</a> Residency Fellow. <br>
