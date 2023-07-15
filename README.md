@@ -3,10 +3,10 @@
 ## 👨‍💻 About Me:
 I'm Patrick, a CS student at the City University of New York-College of Staten Island and a Tech Talent Pipeline Residency Fellow.
 - 📚 I'm currently working on finishing my Bachelor of Science in Computer Science. <br>
-- 💻 I'm currently learning full-stack web development as a <a href="https://techtalentpipeline.nyc/" target="_blank">Tech Talent Pipeline</a> Residency Fellow. <br>
-- 💬 If you have any questions or would like to collaborate, feel free to reach out to me through <a href="https://github.com/PatrickLisiecki/PatrickLisiecki/issues" target="_blank">GitHub</a>.
+- 💻 I'm currently learning full-stack web development as a <a href="https://techtalentpipeline.nyc/">Tech Talent Pipeline</a> Residency Fellow. <br>
+- 💬 If you have any questions or would like to collaborate, feel free to reach out to me through <a href="https://github.com/PatrickLisiecki/PatrickLisiecki/issues">GitHub</a>.
 - 🤝 Whether it's starting something from scratch or contributing to existing ideas, I'm always open to connect and work with others.
-- 📬 How to reach me: <a href="https://www.linkedin.com/in/patricklisiecki/" target="_blank">LinkedIn</a> and <a href="mailto:impatricklisiecki@gmail.com" target="_blank">Email</a>.
+- 📬 How to reach me: <a href="https://www.linkedin.com/in/patricklisiecki/">LinkedIn</a> and <a href="mailto:impatricklisiecki@gmail.com">Email</a>.
 - 🏋️‍♂️ Fun fact: In my free time I enjoy weightlifting and watching movies.
 
 <details>  
@@ -76,18 +76,18 @@ I'm Patrick, a CS student at the City University of New York-College of Staten I
   
 </details>
 
-<a href="https://www.linkedin.com/in/patricklisiecki/" target="_blank">
+<a href="https://www.linkedin.com/in/patricklisiecki/">
   <img src="https://img.shields.io/badge/patricklisiecki-gray?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="25">
 </a>
 
-<a href="mailto:impatricklisiecki@gmail.com" target="_blank">
+<a href="mailto:impatricklisiecki@gmail.com">
   <img src="https://img.shields.io/badge/impatricklisiecki@gmail.com-gray?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="25">
 </a>
 
-<a href="https://portfolio-patricklisiecki.vercel.app/" target="_blank">
+<a href="https://portfolio-patricklisiecki.vercel.app/">
   <img src="https://img.shields.io/badge/Personal Site-gray?style=for-the-badge&logo=googlehome&logoColor=white&labelColor=EA4C89" height="25">
 </a>
 
-<br />
-
-[![](https://visitcount.itsvg.in/api?id=PatrickLisiecki&icon=2&color=12)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=PatrickLisiecki&label=Visitors&color=12&icon=0&pretty=false" height="25" />
+</a>
