@@ -10,7 +10,7 @@ I'm Patrick, a CS student at the City University of New York-College of Staten I
 - 🏋️‍♂️ Fun fact: In my free time I enjoy weightlifting and watching movies.
 
 <details>  
-  <summary><h2>🧰 View Technologies & Tools I've Worked With:</h2></summary>
+  <summary><h2>🧰 View Technologies & Tools I've Worked With</h2></summary>
 
   ### Programming Languages
   <table>
@@ -51,21 +51,21 @@ I'm Patrick, a CS student at the City University of New York-College of Staten I
    ### Tools
    <table>
     <tr>
-      <td align="center" width="100" height="100"><img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><b>Git</b></td>
-      <td align="center" width="100" height="100"><img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><b>GitHub</b></td>
-      <td align="center" width="100" height="100"><img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><b>IDE</b></td>
-      <td align="center" width="100" height="100"><img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /><b>NPM</b></td>
-      <td align="center" width="100" height="100"><img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /><b>Windows</b></td>
-      <td align="center" width="100" height="100"><img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /><b>Ubuntu</b></td>
-      <td align="center" width="100" height="100"><img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><b>Bash</b></td>
-      <td align="center" width="100" height="100"><img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" /><b>PuTTY</b></td>
+      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><br /><b>Git</b></td>
+      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><b>GitHub</b></td>
+      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><br /><b>VS Code</b></td>
+      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /><b>NPM</b></td>
+      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /><b>Windows</b></td>
+      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /><b>Ubuntu</b></td>
+      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><b>Bash</b></td>
+      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" /><b>PuTTY</b></td>
     </tr>
   </table>
   
 </details>
 
 <details>
-  <summary><h2>📊 Expand to View Stats:</h2></summary>
+  <summary><h2>📊 View Stats</h2></summary>
 
   <a href="">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PatrickLisiecki&theme=tokyonight&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" />
