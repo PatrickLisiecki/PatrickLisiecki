@@ -53,7 +53,7 @@ I'm Patrick, a CS student at the City University of New York-College of Staten I
     <tr>
       <td align="center" width="100" height="100"><img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><b>Git</b></td>
       <td align="center" width="100" height="100"><img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><b>GitHub</b></td>
-      <td align="center" width="100" height="100"><img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><b>VS Code</b></td>
+      <td align="center" width="100" height="100"><img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><b>IDE</b></td>
       <td align="center" width="100" height="100"><img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /><b>NPM</b></td>
       <td align="center" width="100" height="100"><img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /><b>Windows</b></td>
       <td align="center" width="100" height="100"><img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /><b>Ubuntu</b></td>
@@ -89,5 +89,5 @@ I'm Patrick, a CS student at the City University of New York-College of Staten I
 </a>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=PatrickLisiecki&label=Visitors&color=12&icon=0&pretty=false" height="25" />
+  <img src="https://visitcount.itsvg.in/api?id=PatrickLisiecki&label=Visitors&color=1&icon=5&pretty=true" height="25" />
 </a>
