@@ -59,6 +59,7 @@ I'm Patrick, a CS student at the City University of New York-College of Staten I
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /><b>Ubuntu</b></td>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><b>Bash</b></td>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" /><b>PuTTY</b></td>
+      <td align="center" width="100" height="100"><img height="50" width="50" src="https://devicons.railway.app/i/postman.svg" /><b>Postman</b></td>
     </tr>
   </table>
   
