@@ -52,7 +52,7 @@ I'm Patrick, a CS student at the City University of New York-College of Staten I
    <table>
     <tr>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><br /><b>Git</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><b>GitHub</b></td>
+      <td align="center" width="100" height="100"><img height="50" width="50" src="https://devicons.railway.app/i/github-light.svg" /><b>GitHub</b></td>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><br /><b>VS Code</b></td>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /><b>NPM</b></td>
       <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /><b>Windows</b></td>
