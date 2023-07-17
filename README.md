@@ -7,8 +7,7 @@ I'm Patrick, a CS student at the City University of New York-College of Staten I
 - 💬 If you have any questions or would like to collaborate, feel free to reach out to me through <a href="https://github.com/PatrickLisiecki/PatrickLisiecki/issues">GitHub</a>.
 - 🤝 Whether it's starting something from scratch or contributing to existing ideas, I'm always open to connect and work with others.
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/patricklisiecki/">LinkedIn</a> and <a href="mailto:impatricklisiecki@gmail.com">Email</a>.
-- 🏋️‍♂️ Fun fact: In my free time I enjoy weightlifting and watching movies.
-
+- 🏋️‍♂️ Fun fact: In my free time I enjoy weightlifting and watching movies. I am also interested in computer hardware and have built a few computers.
 <details>  
   <summary><h2>🧰 View Technologies & Tools I've Worked With</h2></summary>
 
