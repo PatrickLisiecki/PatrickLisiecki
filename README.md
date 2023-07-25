@@ -88,8 +88,8 @@ I'm Patrick, a CS student at the City University of New York-College of Staten I
   <img src="https://img.shields.io/badge/Personal Site-gray?style=for-the-badge&logo=googlehome&logoColor=white&labelColor=EA4C89" height="25">
 </a>
 
-<a href="https://medium.com/@patricklisiecki">
-  <img src="https://img.shields.io/badge/Medium-gray?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" height="25">
+<a href="https://dev.to/patricklisiecki">
+  <img src="https://img.shields.io/badge/dev.to-gray?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A" height="25">
 </a>
 
 <a href="https://visitcount.itsvg.in">
