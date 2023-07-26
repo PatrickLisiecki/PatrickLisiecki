@@ -76,16 +76,16 @@ I'm Patrick, a CS student at the City University of New York-College of Staten I
   
 </details>
 
+<a href="https://patricklisiecki.com/">
+  <img src="https://img.shields.io/badge/Personal Site-gray?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1DA462" height="25">
+</a>
+
 <a href="https://www.linkedin.com/in/patricklisiecki/">
   <img src="https://img.shields.io/badge/patricklisiecki-gray?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="25">
 </a>
 
 <a href="mailto:impatricklisiecki@gmail.com">
   <img src="https://img.shields.io/badge/impatricklisiecki@gmail.com-gray?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="25">
-</a>
-
-<a href="https://patricklisiecki.com/">
-  <img src="https://img.shields.io/badge/Personal Site-gray?style=for-the-badge&logo=googlehome&logoColor=white&labelColor=EA4C89" height="25">
 </a>
 
 <a href="https://dev.to/patricklisiecki">
