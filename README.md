@@ -84,7 +84,7 @@ I'm Patrick, a CS student at the City University of New York-College of Staten I
   <img src="https://img.shields.io/badge/impatricklisiecki@gmail.com-gray?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="25">
 </a>
 
-<a href="https://portfolio-patricklisiecki.vercel.app/">
+<a href="https://patricklisiecki.com/">
   <img src="https://img.shields.io/badge/Personal Site-gray?style=for-the-badge&logo=googlehome&logoColor=white&labelColor=EA4C89" height="25">
 </a>
 
