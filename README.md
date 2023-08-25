@@ -1,13 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&pause=1000&color=F7F7F7&vCenter=true&width=1012&height=56&lines=Hello!+I'm+Patrick+Lisiecki;Full-Stack+Web+Developer;Computer+Science+Student;Tech+Junkie)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=40&pause=1000&color=F7F7F7&vCenter=true&width=900&lines=Hello!+I'm+Patrick+Lisiecki;Web+Developer;Computer+Science+Student;Tech+Enthusiast)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
-I'm Patrick, a CS student at the City University of New York-College of Staten Island and a Tech Talent Pipeline Residency Fellow.
+I'm Patrick, a CS student at the City University of New York-College of Staten Island and a resident of the NYC <a href="https://techtalentpipeline.nyc/">Tech Talent Pipeline</a> Program.
 - 📚 I'm currently working on finishing my Bachelor of Science in Computer Science. <br>
-- 💻 I'm currently learning full-stack web development as a <a href="https://techtalentpipeline.nyc/">Tech Talent Pipeline</a> Residency Fellow. <br>
+- 💻 I'm currently taking a Computer Architecture class and an Internet Data Communications & Security class. <br>
 - 💬 If you have any questions or would like to collaborate, feel free to reach out to me through <a href="https://github.com/PatrickLisiecki/PatrickLisiecki/issues">GitHub</a>.
 - 🤝 Whether it's starting something from scratch or contributing to existing ideas, I'm always open to connect and work with others.
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/patricklisiecki/">LinkedIn</a> and <a href="mailto:impatricklisiecki@gmail.com">Email</a>.
 - 🏋️‍♂️ Fun fact: In my free time I enjoy weightlifting and watching movies. I'm also interested in hardware and have experience assembling and fixing computers.
+
 <details>  
   <summary><h2>🧰 View Technologies & Tools I've Worked With</h2></summary>
 
