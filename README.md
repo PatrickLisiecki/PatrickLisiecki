@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 I'm Patrick, a CS student at the City University of New York-College of Staten Island and a resident of the <a href="https://techtalentpipeline.nyc/">NYC Tech Talent Pipeline</a> Program.
 - 📚 I'm currently working on finishing my Bachelor of Science in Computer Science. <br>
-- 💻 I'm currently taking a Computer Architecture class and an Internet Data Communications & Security class. <br>
+- 💻 I'm currently taking a Machine Learning class and a Graph Theory class. <br>
 - 💬 If you have any questions or would like to collaborate, feel free to reach out to me through <a href="https://github.com/PatrickLisiecki/PatrickLisiecki/issues">GitHub</a>.
 - 🤝 Whether it's starting something from scratch or contributing to existing ideas, I'm always open to connect and work with others.
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/patricklisiecki/">LinkedIn</a> and <a href="mailto:impatricklisiecki@gmail.com">Email</a>.
