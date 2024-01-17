@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=40&pause=1000&color=F7F7F7&vCenter=true&width=900&lines=Hello!+I'm+Patrick+Lisiecki;Developer;Computer+Science+Student;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=40&pause=1000&color=F7F7F7&vCenter=true&width=900&lines=Hello!+I'm+Patrick+Lisiecki;Software+Developer;Computer+Science+Student;Tech+Enthusiast)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 I'm Patrick, a CS student at the City University of New York-College of Staten Island and a resident of the <a href="https://techtalentpipeline.nyc/">NYC Tech Talent Pipeline</a> Program.
@@ -13,18 +13,7 @@ I'm Patrick, a CS student at the City University of New York-College of Staten I
   <summary><h2>🧰 View Technologies & Tools I've Worked With</h2></summary>
 
   ### Programming Languages
-  <table>
-    <tr>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><b>JavaScript</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /><b>TypeScript</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><b>HTML5</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><b>CSS3</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><b>C++</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><b>Java</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><b>Python</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /><b>PHP</b></td>
-    </tr>
-  </table>
+  [![Programming Languages](https://skillicons.dev/icons?i=js,ts,html,css,cpp,java,py,php)](https://skillicons.dev)
 
   ### Frameworks and Libraries
   <table>
