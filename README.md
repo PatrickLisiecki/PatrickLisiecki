@@ -16,41 +16,13 @@ I'm Patrick, a CS student at the City University of New York-College of Staten I
   [![Programming Languages](https://skillicons.dev/icons?i=js,ts,html,css,cpp,java,py,php)](https://skillicons.dev)
 
   ### Frameworks and Libraries
-  <table>
-    <tr>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><b>React.js</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /><b>TailwindCSS</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><b>Node.js</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /><b>Express.js</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /><b>Next.js</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /><b>Jest</b></td>   
-    </tr>
-  </table>
+  [![Frameworks and Libraries](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,flask,next,jest)](https://skillicons.dev)
 
   ### Databases
-   <table>
-    <tr>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><b>PostgreSQL</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><b>MySQL</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /><b>MongoDB</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" /><b>Sequelize</b></td>
-    </tr>
-  </table>
+  [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sequelize)](https://skillicons.dev)
 
-   ### Tools
-   <table>
-    <tr>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><br /><b>Git</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://devicons.railway.app/i/github-light.svg" /><b>GitHub</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><br /><b>VS Code</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /><b>NPM</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /><b>Windows</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /><b>Ubuntu</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><b>Bash</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" /><b>PuTTY</b></td>
-      <td align="center" width="100" height="100"><img height="50" width="50" src="https://devicons.railway.app/i/postman.svg" /><b>Postman</b></td>
-    </tr>
-  </table>
+  ### Tools
+  [![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,postman,vercel,netlify,aws,figma,docker,powershell)](https://skillicons.dev)
   
 </details>
 
