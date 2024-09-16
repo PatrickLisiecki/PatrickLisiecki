@@ -2,11 +2,11 @@
 
 ## 👨‍💻 About Me
 Greetings! I'm Patrick, a Computer Science student at the City University of New York-College of Staten Island and a resident of the <a href="https://techtalentpipeline.nyc/">NYC Tech Talent Pipeline</a> Program. My most recent project can be found <a href="https://flexfusion.xyz/">here</a>.
-- 📚 I'm currently working on finishing my Bachelor of Science in Computer Science. <br>
-- 💻 I'm currently working on a machine learning project. <br>
+- 📚 I'm currently working on finishing my Bachelor of Science in Computer Science while looking for full time SWE opportunities. <br>
+- 💻 I'm currently working on a machine learning project and practicing data structures and algorithms. <br>
 - 💬 If you have any questions or would like to collaborate, feel free to reach out to me through <a href="https://github.com/PatrickLisiecki/PatrickLisiecki/issues">GitHub</a>.
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/patricklisiecki/">LinkedIn</a> and <a href="mailto:impatricklisiecki@gmail.com">Email</a>.
-- 🏋️‍♂️ Fun fact: In my free time I enjoy weightlifting and watching movies. I'm also interested in hardware and have experience assembling and fixing computers.
+- 🏋️‍♂️ Fun fact: In my free time I enjoy weightlifting, playing basketball, and watching movies. I'm also interested in hardware and have experience assembling and fixing computers.
 
 <details>  
   <summary><h2>🧰 View Technologies & Tools I've Worked With</h2></summary>
