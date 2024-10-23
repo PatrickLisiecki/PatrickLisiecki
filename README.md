@@ -35,19 +35,11 @@ I'm a Computer Science student at the City University of New York-College of Sta
 </details>
 
 <a href="https://patricklisiecki.com/">
-  <img src="https://img.shields.io/badge/Personal Site-gray?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1DA462" height="25">
+  <img src="https://img.shields.io/badge/my website-1DA462?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1DA462" height="25">
 </a>
 
 <a href="https://www.linkedin.com/in/patricklisiecki/">
-  <img src="https://img.shields.io/badge/patricklisiecki-gray?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="25">
-</a>
-
-<a href="mailto:impatricklisiecki@gmail.com">
-  <img src="https://img.shields.io/badge/impatricklisiecki@gmail.com-gray?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="25">
-</a>
-
-<a href="https://dev.to/patricklisiecki">
-  <img src="https://img.shields.io/badge/Blog-gray?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0A0A0A" height="25">
+  <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="25">
 </a>
 
 <a href="https://visitcount.itsvg.in">
