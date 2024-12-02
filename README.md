@@ -8,7 +8,7 @@ I'm a senior Computer Science student at the City University of New York-College
 <br />
 
 <a href="https://patricklisiecki.com/">
-  <img src="https://img.shields.io/badge/website-38BDF8?style=for-the-badge&logo=About.me&logoColor=white&labelColor=38BDF8" height="25">
+  <img src="https://img.shields.io/badge/portfolio-38BDF8?style=for-the-badge&logo=About.me&logoColor=white&labelColor=38BDF8" height="25">
 </a>
 
 <a href="https://www.linkedin.com/in/patricklisiecki/">
